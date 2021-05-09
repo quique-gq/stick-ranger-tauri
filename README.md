@@ -1,6 +1,6 @@
 <h1>stick-ranger-tauri</h1>
-  <img src="https://github.com/quique-gq/stick-ranger-tauri/blob/main/screenie.png" alt="Gameplay screenshot">
   <p>Stick Ranger for the desktop using Tauri.</p>
+  <img src="https://github.com/quique-gq/stick-ranger-tauri/blob/main/screenie.png" alt="Gameplay screenshot">
 
 <h2>Where to Download</h2>
   <p>Downloads are located in the <a href="https://github.com/quique-gq/stick-ranger-tauri/releases">releases</a> page.</p>
