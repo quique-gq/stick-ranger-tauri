@@ -4,8 +4,9 @@
 
 <h2>Where to Download</h2>
   <p>Downloads are located in the <a href="https://github.com/quique-gq/stick-ranger-tauri/releases">releases</a> page.</p>
+  <p>If playing on Windows, make sure <a href="https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section">WebView2</a> is installed.</p>
 
-<h2>How to Build Manually (hasn't been tested on Linux or macOS)</h2>
+<h2>How to Build Manually (hasn't been tested on macOS)</h2>
   <h3>Prerequisites</h3>
     <p><strong>It is recommended that you use Yarn as the default package manager instead of NPM (these instructions also use Yarn).</strong></p>
     <ul>
