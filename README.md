@@ -17,7 +17,7 @@
 
 <h2>How to Build Manually (hasn't been tested on macOS)</h2>
   <h3>Prerequisites</h3>
-    <p><strong>It is recommended you use Yarn as the default package manager instead of NPM (these instructions also use Yarn).</strong></p>
+    <p><strong>It is recommended you use Yarn as the default Node.js package manager instead of NPM (these instructions also use Yarn).</strong></p>
     <ul>
       <li><a href="https://tauri.studio/en/docs/getting-started/setup-windows">Windows</a></li>
       <li><a href="https://tauri.studio/en/docs/getting-started/setup-macos">macOS</a></li>
