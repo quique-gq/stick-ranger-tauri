@@ -1,8 +1,8 @@
 [package]
 name = "app"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "Stick Ranger"
+authors = ["Dan-Ball", "Literal Line"]
 license = ""
 repository = ""
 default-run = "app"
@@ -22,3 +22,10 @@ tauri = { version = "1.0.0-beta-rc.4", features =["api-all"]}
 [features]
 default = [ "custom-protocol" ]
 custom-protocol = [ "tauri/custom-protocol" ]
+
+[profile.release]
+panic = "abort"
+codegen-units = 1
+lto = true
+incremental = false
+opt-level = "z"
