@@ -1,6 +1,7 @@
 <h1>stick-ranger-tauri</h1>
   <p>Stick Ranger for the desktop using Tauri.</p>
-  <img src="https://github.com/quique-gq/stick-ranger-tauri/blob/main/screenie.png" alt="Gameplay screenshot">
+  <img src="https://github.com/quique-gq/stick-ranger-tauri/blob/main/screenie_windows.png" alt="Gameplay screenshot on Windows">
+    <img src="https://github.com/quique-gq/stick-ranger-tauri/blob/main/screenie_linux.png" alt="Gameplay screenshot on Linux">
 
 <h2>Where to Download</h2>
   <p>Precompiled binaries are located in the <a href="https://github.com/quique-gq/stick-ranger-tauri/releases">releases</a> page.</p>
