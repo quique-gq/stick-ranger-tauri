@@ -37,6 +37,7 @@
     <ol>
       <li>Clone this repository.</li>
       <li>Open the terminal and cd into the repository.</li>
+      <li>Run <code>npm i</code> to build the node_modules folder.</li>
       <li>Run <code>yarn tauri build</code>.</li>
     </ol>
     <p>Once Tauri has finished compiling, the binary output should be located in <code>src-tauri/target/release</code>.</p>
