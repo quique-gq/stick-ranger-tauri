@@ -5,7 +5,7 @@
   },
   "build": {
     "distDir": "html5",
-    "devPath": "http://localhost:5500",
+    "devPath": "html5",
     "beforeDevCommand": "",
     "beforeBuildCommand": ""
   },
@@ -45,7 +45,7 @@
       "active": false
     },
     "allowlist": {
-      "all": true
+      "all": false
     },
     "windows": [
       {
