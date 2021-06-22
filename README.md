@@ -3,16 +3,25 @@
   <img src="https://github.com/quique-gq/stick-ranger-tauri/blob/main/screenie_windows.png" alt="Gameplay screenshot on Windows">
     <img src="https://github.com/quique-gq/stick-ranger-tauri/blob/main/screenie_linux.png" alt="Gameplay screenshot on Linux">
 
-<h2>Where to Download</h2>
+<h2 id="where-to-download">Where to Download</h2>
   <p>Precompiled binaries are located in the <a href="https://github.com/quique-gq/stick-ranger-tauri/releases">releases</a> page.</p>
   <p>If playing on Windows, make sure <a href="https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section">WebView2</a> is installed.</p>
 
 <h2>How to Run</h2>
   <h3>Windows</h3>
-    <p>Run the exe file :)</p>
+    <ol>
+      <li>Install using the msi file if you downloaded the installer.</li>
+      <li>Run the exe file :)</li>
+    </ol>
   <h3>Linux</h3>
-    <p>In the executable's file properties, check the option for "Allow executing file as program" if it isn't checked already. This can also be done in the terminal using the <code>chmod +x</code> command (example: <code>sudo chmod +x ./Stick_Ranger_Linux</code>).</p>
-    <p>If you can't run the executable from your file manager, try running it in the terminal.</p>
+    <h4>Using the Debian Installer Package</h4>
+      <p>On Debian and Debian-based Linux distros (Ubuntu, Linux Mint, etc.), you can install the game using the deb installer located in the <a href="https://github.com/quique-gq/stick-ranger-tauri/releases">releases</a> page.</p>
+    <h4>Using the AppImage File</h4>
+      <p>If <a href="https://appimage.org/">AppImage</a> is installed on your system, you should be able to run the appimage file located in the <a href="https://github.com/quique-gq/stick-ranger-tauri/releases">releases</a> page.</p>
+    <h4>Using the Binary Executable</h4>
+      <p>In the executable's file properties, check the option for "Allow executing file as program" if it isn't checked already. This can also be done in the terminal using the <code>chmod +x</code> command. <strong>Example below:</strong></p>
+      <pre>cd ./Downloads/stick-ranger-location<br>sudo chmod +x ./Stick_Ranger_Linux</pre>
+      <p>If you can't run the executable from your file manager, try running it in the terminal.</p>
   <h3>macOS</h3>
     <p>idk</p>
 
