@@ -37,7 +37,6 @@
     <ol>
       <li>Clone this repository.</li>
       <li>Open the terminal and cd into the repository.</li>
-      <li>Install Tauri with <code>yarn add -D @tauri-apps/cli</code></li>
       <li>Run <code>npm i</code> to build the node_modules folder.</li>
       <li>Run <code>yarn tauri build</code>.</li>
     </ol>
