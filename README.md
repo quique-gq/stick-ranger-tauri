@@ -1,5 +1,5 @@
 <h1>stick-ranger-tauri</h1>
-  <p>Stick Ranger for the desktop using Tauri.</p>
+  <p>Stick Ranger for the desktop using Tauri. The original game can be found <a href="https://dan-ball.jp/en/javagame/ranger/">here</a>.</p>
   <img src="https://github.com/quique-gq/stick-ranger-tauri/blob/main/screenie_windows.png" alt="Gameplay screenshot on Windows">
     <img src="https://github.com/quique-gq/stick-ranger-tauri/blob/main/screenie_linux.png" alt="Gameplay screenshot on Linux">
 
